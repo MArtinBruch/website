@@ -582,6 +582,12 @@ video.bgvid {
 
 
 /* 6. Appear Items */	
+.web-pic {
+margin: auto;
+max-width: 50%;
+max-height: 50%;
+
+}
 
 .has-animation {
     
